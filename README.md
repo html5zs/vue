@@ -1,6 +1,6 @@
-# demo
+# vue 技术栈 架子 vue-router axios vuex element-ui
 
-> demo
+> 
 
 ## Build Setup
 
